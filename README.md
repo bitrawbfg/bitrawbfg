@@ -1,8 +1,8 @@
 # 💫 Sobre mí:
 ¡Hola hola! 👋<br><br>
 Me llamo Blas y soy un programador titulado en el Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM), y el Grado Medio de Sistemas Microinformáticos y Redes (SMX) 🖥🖱.<br><br>
-Soy un poquito bastante aficionado a la música, la creación de contenido, la programación y los videojuegos 👾🎸.
-
+Soy un poquito bastante aficionado a la música, la creación de contenido, la programación y los videojuegos 👾🎸.<br><br>
+Durante el ciclo formativo de DAM he trabajado con tecnologías como Java, Android, Flutter, Unity o MySQL 👩‍💻.
 
 ## 🌐 Redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blas-fernandez-gonzalez) 
