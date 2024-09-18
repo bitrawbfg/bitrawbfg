@@ -8,8 +8,8 @@
 
 ### 😸 Sobre mí
 
-Me llamo Blas y soy un **programador junior backend** especializado principalmente en **Java** y **SpringBoot** 👨‍💻<br><br>
-Se podría decir que mi pasión por los videojuegos fue lo que me introdujo al mundo de la programación, y gracias a ello y al CFGS en DAM descubrí un nuevo y apasionante mundo.<br>
+Me llamo Blas y soy un **programador backend** especializado principalmente en **Java** y **SpringBoot** 👨‍💻<br><br>
+Se podría decir que mi pasión por los videojuegos fue lo que me introdujo al mundo de la programación, y gracias a ello y al **CFGS en DAM** descubrí un nuevo y apasionante mundo.<br>
 Entre otras cosas, me gusta escuchar y tocar música, la creación de contenido y los videojuegos (que no se note).<br><br>
 Aquí podrás echarle un vistazo a algunos de los proyectos en los que he estado trabajado (y sigo trabajando), y con qué lenguajes/herramientas he trabajado durante estos 3 últimos años en mayor o menor medida.
 
@@ -23,5 +23,21 @@ Aquí podrás echarle un vistazo a algunos de los proyectos en los que he estado
 
 ---
 
+### 👨‍💻 Proyectos
+
+#### [PC Building Helper](https://github.com/Proyecto-Helper-PC-Building-Simulator)
+
+<div align="center">
+   <a href="https://github.com/Proyecto-Helper-PC-Building-Simulator"> <img src="https://github.com/user-attachments/assets/fc2afb4d-f239-4c08-bb64-19587d316efe"></img> </a>
+</div>
+
+**PC Building Helper** es un proyecto personal pensado para facilitar la gestión de pedidos para los jugadores del juego PC Building Simulator.
+
+Dicho proyecto consta de una **app de escritorio** desarrollada con **JavaFX** y una **API** desarrollada con **Spring Boot**.
+
+Para **más información** puedes acceder al proyecto desde [**aquí**](https://github.com/Proyecto-Helper-PC-Building-Simulator). Puedes **probar la app** descargándola desde la [**página de releases**](https://github.com/Proyecto-Helper-PC-Building-Simulator/app_javafx/releases/tag/v1.0.0).
+
+---
+
 ### 🌐 También podrás encontrarme en:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blas-fernandez-gonzalez) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@bitraw)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blas-fernandez-gonzalez)
