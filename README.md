@@ -31,7 +31,7 @@ Aquí podrás echarle un vistazo a algunos de los proyectos en los que he estado
    <a href="https://github.com/Proyecto-Helper-PC-Building-Simulator"> <img src="https://github.com/user-attachments/assets/fc2afb4d-f239-4c08-bb64-19587d316efe"></img> </a>
 </div>
 
-**PC Building Helper** es un proyecto personal pensado para facilitar la gestión de pedidos para los jugadores del juego PC Building Simulator.
+**PC Building Helper** es un proyecto personal pensado para facilitar la gestión de pedidos de los jugadores del juego PC Building Simulator.
 
 Dicho proyecto consta de una **app de escritorio** desarrollada con **JavaFX** y una **API** desarrollada con **Spring Boot**.
 
