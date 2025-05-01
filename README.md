@@ -27,6 +27,10 @@ Aquí podrás echarle un vistazo a algunos de los proyectos en los que he estado
 
 #### [PC Building Helper](https://github.com/Proyecto-Helper-PC-Building-Simulator)
 
+> [!WARNING]  
+> Actualmente la app de escritorio no se encuentra disponible por problemas de compatibilidad.
+> De todas maneras, puedes acceder a la [API](https://api-pc-building-sim-latest.onrender.com/pc/doc/swagger-ui/index.html) que se encuentra hosteada en Render.
+
 <div align="center">
    <a href="https://github.com/Proyecto-Helper-PC-Building-Simulator"> <img src="https://github.com/user-attachments/assets/fc2afb4d-f239-4c08-bb64-19587d316efe"></img> </a>
 </div>
